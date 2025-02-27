@@ -4,7 +4,7 @@ const page = () => {
     return (
         <div className="page-content">
             <h1>
-                Work <sup>(03)</sup>
+                Work 
             </h1>
         </div>
     )

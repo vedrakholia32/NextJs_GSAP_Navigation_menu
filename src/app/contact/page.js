@@ -4,7 +4,7 @@ const page = () => {
     return (
         <div className="page-content">
             <h1>
-                Contact <sup>(03)</sup>
+                Contact 
             </h1>
         </div>
     )
