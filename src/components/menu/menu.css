@@ -12,6 +12,8 @@
 }
 
 .special {
+    position: absolute;
+    right: 1em;
     font-size: 25px;
     cursor: pointer;
     color: white;
@@ -41,7 +43,7 @@
     width: 100vw;
     height: 100vh;
     padding: 2em;
-    background: linear-gradient(to bottom, #c7c7c7, #606060);
+    background: linear-gradient(to bottom, #cfcfcf, #525252);
 
     z-index: 2;
     display: flex;
